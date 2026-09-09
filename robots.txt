@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elma-iot.github.io/sitemap.xml
